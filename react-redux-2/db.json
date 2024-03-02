@@ -1,0 +1,21 @@
+{
+    "heights" : [
+        {"id" : 1, "length" : 25},
+        {"id" : 2, "length" : 36},
+        {"id" : 3, "length" : 45},
+        {"id" : 4, "length" : 21},
+        {"id" : 5, "length" : 14},
+        {"id" : 6, "length" : 8},
+        {"id" : 7, "length" : 11}
+    ],
+    "breadths" : [
+        {"id" : 1, "width" : 22},
+        {"id" : 2, "width" : 13},
+        {"id" : 3, "width" : 40},
+        {"id" : 4, "width" : 15},
+        {"id" : 5, "width" : 18},
+        {"id" : 6, "width" : 24},
+        {"id" : 7, "width" : 16}
+    ]
+
+}
